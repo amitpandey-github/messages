@@ -8,10 +8,18 @@
 
         },
          {
-            "id":"1",
+            "id":"2",
             "messages":"Welcome to Kiit University",
             "img":"https://tinypng.com/images/social/website.jpg",
             "link":"https://www.google.com"
+
+
+        },
+        {
+            "id":"3",
+            "messages":"Welcome to Kiit Null message",
+            "img": null
+            "link": null
 
 
         }
